@@ -20,7 +20,7 @@ basic statistics calculator. You'll need to define the following methods
 * `mean`
   * **Input**: A set of numbers
   * **Output**: The sum of the elements divided by the count
-    of elements
+    of elements 
 * `median`
   * **Input**: A set of numbers
   * **Output**: The middle-most number. Sort the set and find the number in the
